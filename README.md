@@ -1,5 +1,4 @@
 # Aplicatie client-server TCP si UDP pentru gestionarea mesajelor
-Popa Razvan Mihai 323CC
 
 Pentru aceasta tema, am folosit ca schelet laboratorul 7.
 
